@@ -13,4 +13,4 @@ The research study, entitled "A-S.W.I.T.C.H: Automated Smart Wattage Interventio
 - [JETTX](https://github.com/Jett0X)
 
 ## Licence
-- [MIT License](https://github.com/Jett0X/A-S.W.I.T.C.H/blob/main/LICENSE)
+- [MIT Licence](https://github.com/Jett0X/A-S.W.I.T.C.H/blob/main/LICENSE)
